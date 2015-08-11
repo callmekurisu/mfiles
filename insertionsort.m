@@ -3,7 +3,7 @@
 %multiply by 100 to get numbers from 0-100
 %floor() round to nearest integer
 clear;clc
-input('PRess Enter to generate random numbers')
+input('Press Enter to generate random numbers')
 
 R = (rand(1,10)*100);
 R = floor(R);
