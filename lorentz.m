@@ -1,4 +1,4 @@
-%Solution for Lorentz System
+%Solution for Lorenz System
 clear;clc;
 %initial values
 sigma = 10;
